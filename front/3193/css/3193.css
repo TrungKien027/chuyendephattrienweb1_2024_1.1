@@ -1,0 +1,59 @@
+.type-3193 {
+  padding: 50px 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+.type-3193 h2 {
+  font-size: 36px;
+  margin-bottom: 10px;
+  color: black;
+}
+.type-3193 .subtitle {
+  font-size: 16px;
+  color: black;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+.type-3193 .list-section {
+  margin-top: 30px;
+}
+.type-3193 .list-section h3 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: black;
+}
+.type-3193 .list-section ul {
+  list-style: none;
+  padding-left: 0;
+  font-size: 16px;
+}
+.type-3193 .list-section ul li {
+  margin-bottom: 10px;
+  padding-right: 5px;
+  position: relative;
+  text-align: left;
+  color: #827e7e;
+}
+.type-3193 .list-section .list-icons li i {
+  position: absolute;
+  right: 100px;
+  top: 2px;
+  font-size: 18px;
+  color: black;
+}
+.type-3193 .list-section .list-square li:after {
+  content: "■";
+  position: absolute;
+  right: 100px;
+  color: black;
+  font-size: 18px;
+  top: 2px;
+}
+.type-3193 .list-section .list-circle li:after {
+  content: "●";
+  position: absolute;
+  right: 100px;
+  color: black;
+  font-size: 18px;
+  top: 2px;
+}
